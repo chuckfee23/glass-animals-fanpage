@@ -3,6 +3,10 @@
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
+body {
+  padding: 40px;
+}
+
 #header-image {
   display: block;
   margin: 0 auto;
